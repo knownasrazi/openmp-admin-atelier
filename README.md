@@ -12,15 +12,15 @@ Clean React panel for open.mp - players, bans, economy, and logs. No template fl
 
 ## Screens
 
-Players table, ban dialog, economy editor - all in cream, stone, and ink.
+Players table, ban dialog, economy editor - all in clean, stone, and ink.
 
 ## Stack
 
 - Vite + React + TypeScript
-- Tailwind cream tokens
+- Tailwind clean tokens
 - open.mp REST (or RCON) as data source
 
-## Humanized code
+## Hand-crafted code
 
 \\\	s
 // src/api/players.ts - a human wrote this, you can tell by the comments

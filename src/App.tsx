@@ -1,1 +1,1 @@
-﻿export default function App(){ return <div>openmp admin atelier - humanized</div> }
+﻿export default function App(){ return <div>openmp admin atelier - hand-crafted</div> }
