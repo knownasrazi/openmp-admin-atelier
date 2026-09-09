@@ -1,0 +1,8 @@
+﻿* text=auto
+
+*.pwn text eol=lf
+*.inc text eol=lf
+*.ts text eol=lf
+*.js text eol=lf
+*.py text eol=lf
+*.go text eol=lf

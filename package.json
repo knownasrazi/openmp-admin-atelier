@@ -1,0 +1,5 @@
+﻿{
+  "name": "openmp-admin-atelier",
+  "private": true,
+  "scripts": { "dev": "vite", "build": "vite build" }
+}
